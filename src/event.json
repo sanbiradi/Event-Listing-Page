@@ -65,6 +65,82 @@
       "img": 2
     }
   ],
+  "uk": [
+    {
+      "id": 1,
+      "title": "Azent Overseas Education Online Fair - UK",
+      "date": "25th Jun 2021",
+      "platform": "zoom meet",
+      "time": "02:00Pm",
+      "img": 1
+    },
+    {
+      "id": 2,
+      "title": "Azent Overseas Education Online Fair - UK",
+      "date": "30th Jun 2021",
+      "platform": "zoom meet",
+      "time": "10:00Am",
+      "img": 2
+    },
+    {
+      "id": 3,
+      "title": "Azent Overseas Education Online Fair - UK",
+      "date": "30th Jun 2021",
+      "platform": "zoom meet",
+      "time": "10:00Am",
+      "img": 2
+    },
+    {
+      "id": 4,
+      "title": "Azent Overseas Education Online Fair - UK",
+      "date": "30th Jun 2021",
+      "platform": "zoom meet",
+      "time": "10:00Am",
+      "img": 2
+    },
+    {
+      "id": 5,
+      "title": "Azent Overseas Education Online Fair - UK",
+      "date": "30th Jun 2021",
+      "platform": "zoom meet",
+      "time": "10:00Am",
+      "img": 2
+    }
+  ],
+  "canada": [
+    {
+      "id": 1,
+      "title": "Azent Overseas Education Online Fair - canada",
+      "date": "25th Jun 2021",
+      "platform": "zoom meet",
+      "time": "02:00Pm",
+      "img": 2
+    },
+    {
+      "id": 2,
+      "title": "Azent Overseas Education Online Fair - canada",
+      "date": "30th Jun 2021",
+      "platform": "zoom meet",
+      "time": "10:00Am",
+      "img": 2
+    },
+    {
+      "id": 3,
+      "title": "Azent Overseas Education Online Fair - canada",
+      "date": "25th Jun 2021",
+      "platform": "zoom meet",
+      "time": "02:00Pm",
+      "img": 2
+    },
+    {
+      "id": 4,
+      "title": "Azent Overseas Education Online Fair - canada",
+      "date": "30th Jun 2021",
+      "platform": "zoom meet",
+      "time": "10:00Am",
+      "img": 1
+    }
+  ],
   "australia": [
     {
       "id": 1,
@@ -107,10 +183,10 @@
       "img": 2
     }
   ],
-  "canada": [
+  "newzealand": [
     {
       "id": 1,
-      "title": "Azent Overseas Education Online Fair - canada",
+      "title": "Azent Overseas Education Online Fair - New Zealand",
       "date": "25th Jun 2021",
       "platform": "zoom meet",
       "time": "02:00Pm",
@@ -118,7 +194,7 @@
     },
     {
       "id": 2,
-      "title": "Azent Overseas Education Online Fair - canada",
+      "title": "Azent Overseas Education Online Fair - New Zealand",
       "date": "30th Jun 2021",
       "platform": "zoom meet",
       "time": "10:00Am",
@@ -126,7 +202,7 @@
     },
     {
       "id": 3,
-      "title": "Azent Overseas Education Online Fair - canada",
+      "title": "Azent Overseas Education Online Fair - New Zealand",
       "date": "25th Jun 2021",
       "platform": "zoom meet",
       "time": "02:00Pm",
@@ -134,53 +210,27 @@
     },
     {
       "id": 4,
-      "title": "Azent Overseas Education Online Fair - canada",
+      "title": "Azent Overseas Education Online Fair - New Zealand",
       "date": "30th Jun 2021",
       "platform": "zoom meet",
       "time": "10:00Am",
       "img": 1
-    }
-  ],
-  "uk": [
-    {
-      "id": 1,
-      "title": "Azent Overseas Education Online Fair - UK",
-      "date": "25th Jun 2021",
-      "platform": "zoom meet",
-      "time": "02:00Pm",
-      "img": 1
-    },
-    {
-      "id": 2,
-      "title": "Azent Overseas Education Online Fair - UK",
-      "date": "30th Jun 2021",
-      "platform": "zoom meet",
-      "time": "10:00Am",
-      "img": 2
-    },
-    {
-      "id": 3,
-      "title": "Azent Overseas Education Online Fair - UK",
-      "date": "30th Jun 2021",
-      "platform": "zoom meet",
-      "time": "10:00Am",
-      "img": 2
-    },
-    {
-      "id": 4,
-      "title": "Azent Overseas Education Online Fair - UK",
-      "date": "30th Jun 2021",
-      "platform": "zoom meet",
-      "time": "10:00Am",
-      "img": 2
     },
     {
       "id": 5,
-      "title": "Azent Overseas Education Online Fair - UK",
+      "title": "Azent Overseas Education Online Fair - New Zealand",
+      "date": "25th Jun 2021",
+      "platform": "zoom meet",
+      "time": "02:00Pm",
+      "img": 2
+    },
+    {
+      "id": 6,
+      "title": "Azent Overseas Education Online Fair - New Zealand",
       "date": "30th Jun 2021",
       "platform": "zoom meet",
       "time": "10:00Am",
-      "img": 2
+      "img": 1
     }
   ],
   "singapore": [
@@ -247,56 +297,6 @@
       "platform": "zoom meet",
       "time": "10:00Am",
       "img": 2
-    }
-  ],
-  "newzealand": [
-    {
-      "id": 1,
-      "title": "Azent Overseas Education Online Fair - New Zealand",
-      "date": "25th Jun 2021",
-      "platform": "zoom meet",
-      "time": "02:00Pm",
-      "img": 2
-    },
-    {
-      "id": 2,
-      "title": "Azent Overseas Education Online Fair - New Zealand",
-      "date": "30th Jun 2021",
-      "platform": "zoom meet",
-      "time": "10:00Am",
-      "img": 2
-    },
-    {
-      "id": 3,
-      "title": "Azent Overseas Education Online Fair - New Zealand",
-      "date": "25th Jun 2021",
-      "platform": "zoom meet",
-      "time": "02:00Pm",
-      "img": 2
-    },
-    {
-      "id": 4,
-      "title": "Azent Overseas Education Online Fair - New Zealand",
-      "date": "30th Jun 2021",
-      "platform": "zoom meet",
-      "time": "10:00Am",
-      "img": 1
-    },
-    {
-      "id": 5,
-      "title": "Azent Overseas Education Online Fair - New Zealand",
-      "date": "25th Jun 2021",
-      "platform": "zoom meet",
-      "time": "02:00Pm",
-      "img": 2
-    },
-    {
-      "id": 6,
-      "title": "Azent Overseas Education Online Fair - New Zealand",
-      "date": "30th Jun 2021",
-      "platform": "zoom meet",
-      "time": "10:00Am",
-      "img": 1
     }
   ],
   "ireland": [

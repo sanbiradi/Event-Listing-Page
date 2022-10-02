@@ -36,7 +36,7 @@ export default function StickyNavigation() {
             {Array(locations)[0].map((location) => (
               <Link to={`/${location.toLowerCase()}`}>
                 <li className={setActiveClass(location)}>
-                  {`${location[0].toUpperCase()}${location.substring(1)}`} (10)
+                  {`${location[0].toUpperCase()}${location.substring(1)}`} ({location.length})
                 </li>
               </Link>
             ))}
